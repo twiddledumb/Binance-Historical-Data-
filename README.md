@@ -1,6 +1,6 @@
 # Binance-Historical-Data-
 This script allows you to pick and choose what tickers you would like to download from spot monthly Kline data from Binance. 
-All ticker are denominated with USDT as USD is not an option currently and most tickers have higher volume than other stables. 
+All tickers are denominated with USDT as USD is not an option currently and most tickers have higher volume with USDT than other stables. 
 It saves the data currently in SQLite DB. 
 Zip files are just store in the current directory currently but this will be changed later. 
 
